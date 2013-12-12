@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifer="uid">
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifer="uid">
 <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
           <dc:identifier id="uid">siyavula.com.dummy-book-repo.1.0</dc:identifier>
           <dc:title>IEB Physics Outline</dc:title>
@@ -19,7 +20,7 @@
 <item id="chapter-9" href="10-PhotoElectricEffectAndEmissionSpectra.cnxmlplus.html" media-type="application/xhtml+xml"/>
 <item id="chapter-10" href="template.cnxmlplus.html" media-type="application/xhtml+xml"/>
 <item id="nav" href="ieb-physics-skeleton-nav.html" media-type="application/xhtml+xml" properties="nav"/>
-</manifest><spine>
+<item href="22-2efcf31f-2052-4a2e-b765-a119404b0c9f.html" id="22-2efcf31f-2052-4a2e-b765-a119404b0c9f.html" media-type="application/xhtml+xml"/></manifest><spine>
 <itemref idref="intro"/>
 <itemref idref="chapter-0"/>
 <itemref idref="chapter-1"/>
